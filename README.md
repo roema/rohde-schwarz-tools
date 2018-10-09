@@ -13,3 +13,9 @@ Extracting the settings is in progress..
 ## Installation
 
 	sudo pip3 install notify2
+
+## RSconvert.sh
+
+	use it as a nautilus script and convert .set files with right click!
+	* copy the script to </home/$USER/.local/share/nautilus/scripts/>
+	* chmod +x /home/$USER/.local/share/nautilus/scripts/RSconvert.sh
